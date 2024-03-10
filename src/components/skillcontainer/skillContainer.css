@@ -1,0 +1,76 @@
+.skillContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px 0;
+
+
+}
+.skillcontainer-text{
+    color: aliceblue;
+    flex: 0.6;
+    text-align: left;
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+
+
+.skillcontainer-text h2{
+    font-size: 30px;
+
+}
+.skilcontainer-image{
+    flex: 0.4;
+    text-align: center;
+    margin-right: 100px;
+
+}
+.skilcontainer-image img{
+     width: 600px;
+     border-radius: 10px;
+     object-fit: contain;
+
+}
+.skillcontainer-skillset h5{
+    font-size: larger;
+    font-weight: 300px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+
+}
+.skillcontainer-slider .MuiLinearProgress-colorPrimary{
+    background-color: gray;
+}
+.skillcontainer-slider1 .MuiLinearProgress-barColorPrimary{
+    background-color: rgb(0, 255, 64);
+
+}
+.skillcontainer-slider2 .MuiLinearProgress-barColorPrimary{
+    background-color: rgb(230, 208, 13);
+
+}
+
+.skillcontainer-slider3 .MuiLinearProgress-barColorPrimary{
+    background-color: rgb(241, 159, 7);
+
+}
+
+.skillcontainer-slider4 .MuiLinearProgress-barColorPrimary{
+    background-color: rgb(255, 72, 0);
+
+}
+
+.skillcontainer-slider5 .MuiLinearProgress-barColorPrimary{
+    background-color: rgb(54, 241, 7);
+
+}
+
+.skillcontainer-slider6 .MuiLinearProgress-barColorPrimary{
+    background-color:  rgb(241, 159, 7);
+
+}
+
+.skillcontainer-slider7 .MuiLinearProgress-barColorPrimary{
+    background-color: rgb(8, 247, 20);
+
+}

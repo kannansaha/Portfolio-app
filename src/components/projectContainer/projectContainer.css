@@ -1,0 +1,23 @@
+.projectcontainer{
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    justify-content: center;
+    margin: 200px 0;
+    align-items: center;
+}
+.projectcontainer h1{
+    padding-bottom: 15px;
+
+}
+.projectcontainer p{
+    padding-bottom: 20px;
+    
+}
+.Projectcontainer-projects{
+    display: flex;
+    width: 60%;
+    margin-top: 50px;
+    flex-wrap: nowrap;
+}
+

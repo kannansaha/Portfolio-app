@@ -1,0 +1,20 @@
+.experience{
+    display: flex;
+    flex-direction: column;
+    border: 2px dotted aliceblue;
+    border-radius: 10px;
+    width: 200px;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    overflow: hidden;
+}
+.experience h1{
+    color: aliceblue;
+}
+
+.experience p{
+    color: aliceblue;
+}
+

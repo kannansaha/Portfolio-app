@@ -1,0 +1,38 @@
+.project img{
+    width: 350px;
+    height: 250px;
+    
+
+}
+
+.project{
+    padding: 10px;
+    margin:15px;
+    width: 350px;
+    height: 250px;
+    transition: transform 100ms ease-in;
+   
+}
+
+.project:hover{
+    color: aliceblue;
+    background-color: orangered;
+    transform: scale(1.05);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.project-content{
+    padding: 10px;
+}
+.roject-content h4{
+    padding-bottom: 5px;
+}
+.roject-content p{
+    font-size: 20px;
+}
+.project-a-tag{
+    text-decoration: none;
+    color: aliceblue;
+}
