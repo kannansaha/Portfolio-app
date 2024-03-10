@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df0886a3.css",
+    "main.js": "/static/js/main.43535b7f.js",
+    "static/media/kannan.jpg": "/static/media/kannan.c608854ea327c233704d.jpg",
+    "static/media/ExpImg.jpg": "/static/media/ExpImg.9fe28c5fdc2f8b5db1be.jpg",
+    "static/media/skilsimage.jpg": "/static/media/skilsimage.bb6c32c2820cf98ea408.jpg",
+    "index.html": "/index.html",
+    "main.df0886a3.css.map": "/static/css/main.df0886a3.css.map",
+    "main.43535b7f.js.map": "/static/js/main.43535b7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df0886a3.css",
+    "static/js/main.43535b7f.js"
+  ]
+}
